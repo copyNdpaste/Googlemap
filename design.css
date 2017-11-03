@@ -1,0 +1,27 @@
+﻿body{	
+	background-color:hotpink;
+}
+h1{
+	color : rgb(47,213,208);
+	text-align:center;
+}
+div{
+	color: rgb(47,213,208);
+	font-size:1em;
+}
+.inside{
+	font-size:10em;
+	text-align:center;
+}
+.bts{
+	width:100%;
+	text-align:center;
+	margin-top:90px;
+	margin-bottom:30px;
+}
+button{
+	font-size:2em;
+	color:white;
+	background-color:hotpink;
+	border:3px solid rgb(47,213,208);
+}
